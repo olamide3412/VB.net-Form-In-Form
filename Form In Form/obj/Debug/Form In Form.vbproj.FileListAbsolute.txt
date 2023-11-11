@@ -1,0 +1,13 @@
+C:\Users\Ola\source\repos\Form In Form\Form In Form\bin\Debug\Form In Form.exe.config
+C:\Users\Ola\source\repos\Form In Form\Form In Form\bin\Debug\Form In Form.exe
+C:\Users\Ola\source\repos\Form In Form\Form In Form\bin\Debug\Form In Form.pdb
+C:\Users\Ola\source\repos\Form In Form\Form In Form\bin\Debug\Form In Form.xml
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.vbprojAssemblyReference.cache
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form_In_Form.Form1.resources
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form_In_Form.Resources.resources
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.vbproj.GenerateResource.cache
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.vbproj.CoreCompileInputs.cache
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.exe
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.xml
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form In Form.pdb
+C:\Users\Ola\source\repos\Form In Form\Form In Form\obj\Debug\Form_In_Form.SubForm.resources
